@@ -1,4 +1,4 @@
-#hangman_py
+hangman_py
 =======================
 
 Hangman! Python v3.9.2
